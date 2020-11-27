@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "falcaoForm"
+    }
+  },
+  "defaultProject": "falcaoForm",
+  "cli": {
+    "analytics": "cadc0bf1-7673-4eca-8b69-c847a6ef21c1"
+  }
 }
